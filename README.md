@@ -63,3 +63,7 @@ Dan terakhir membuat fungsi if else untuk menjalankan method
     else:
         data.keluar()
         break
+
+# OUTPUT
+Menambah data
+

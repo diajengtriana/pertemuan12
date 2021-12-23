@@ -26,7 +26,6 @@ pertama saya membuat sebuah class daftar nilai
 Lalu saya melanjutkan dengan membuat method method fungsinya
 
     def tambah(self)
-
     def ubah(self)
   
     def lihat(self)

@@ -67,3 +67,40 @@ Dan terakhir membuat fungsi if else untuk menjalankan method
 # OUTPUT
 Menambah data
 
+<img width="639" alt="tambah" src="https://user-images.githubusercontent.com/92905452/147248911-20ac982a-7dbd-45bd-837f-c558ef5cb6dd.png">
+
+Melihat data
+
+<img width="521" alt="lihat1" src="https://user-images.githubusercontent.com/92905452/147251289-6367ed84-414f-4df6-9f9c-41b6e419c0e8.png">
+
+Menambah data lagi
+
+<img width="461" alt="tambahLagi" src="https://user-images.githubusercontent.com/92905452/147251355-4ca34152-1d9c-424d-a11e-2fcb2450e95f.png">
+
+Melihat hasil
+
+<img width="489" alt="lihat2" src="https://user-images.githubusercontent.com/92905452/147251426-d57f0e04-042f-42e6-ae11-fc1084728534.png">
+
+Mengubah data
+
+<img width="482" alt="ubah" src="https://user-images.githubusercontent.com/92905452/147251461-5d58a7ef-8f9c-46ba-83c4-32241e6a6a79.png">
+
+Melihat hasil
+
+<img width="512" alt="lihat3" src="https://user-images.githubusercontent.com/92905452/147251505-be4756b9-cd59-4fac-bca8-ade704cf2dfa.png">
+
+Menghapus apabila memilih t
+
+<img width="478" alt="hapus(t)" src="https://user-images.githubusercontent.com/92905452/147251574-a24a4056-f386-4c3d-bc77-789f89a9425b.png">
+
+menghapus apabila memilih y
+
+<img width="446" alt="hapus(y)" src="https://user-images.githubusercontent.com/92905452/147251638-eeab1ea0-de28-4cd5-90b4-bddac8af51f6.png">
+
+Melihat hasil
+
+<img width="505" alt="lihat4" src="https://user-images.githubusercontent.com/92905452/147251697-3ae0d153-a980-4246-b5d0-308881e30633.png">
+
+Keluar
+
+<img width="447" alt="keluar" src="https://user-images.githubusercontent.com/92905452/147251758-d4195f57-101b-42f7-920e-7fbb05bb4548.png">

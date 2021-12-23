@@ -27,39 +27,25 @@ Lalu saya melanjutkan dengan membuat method method fungsinya
 
     def tambah(self)
     def ubah(self)
-  
-    def lihat(self)
-  
+    def lihat(self)  
     def hapus(self)
   
   Lalu saya mengisi setiap method dengan elemen elemen nya
   
-    nama= input("Masukkan Nama\t\t: ")
-        
-    nim= input("Masukkan NIM\t\t: ")
-        
-    nilaiTugas= int(input("Masukkan Nilai Tugas\t: "))
-        
-    nilaiUts= int(input("Masukkan Nilai UTS\t: "))
-        
-    nilaiUas= int(input("Masukkan Nilai UAS\t: "))
-        
-    nilaiAkhir= (0.30 * nilaiTugas) + (0.35 * nilaiUts) + (0.35 * nilaiUas)
-        
+    nama= input("Masukkan Nama\t\t: ")        
+    nim= input("Masukkan NIM\t\t: ")      
+    nilaiTugas= int(input("Masukkan Nilai Tugas\t: "))       
+    nilaiUts= int(input("Masukkan Nilai UTS\t: "))        
+    nilaiUas= int(input("Masukkan Nilai UAS\t: "))        
+    nilaiAkhir= (0.30 * nilaiTugas) + (0.35 * nilaiUts) + (0.35 * nilaiUas)        
     dt[nama]= nim, nilaiTugas, nilaiUts, nilaiUas, nilaiAkhir
 
 Lalu saya membuat sebuah looping
 
-    while True:
-        
-        input('tambah   (1)
-               
-               ubah     (2)
-               
-               lihat    (3)
-               
-               hapus    (4)
-               
-               ')
-        
+    while True:       
+        input('tambah   (1)             
+               ubah     (2)          
+               lihat    (3)            
+               hapus    (4)             
+               ')     
         c = input("\nsilahkan masukan pilihan : ")

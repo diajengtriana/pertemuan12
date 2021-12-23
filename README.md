@@ -49,3 +49,17 @@ Lalu saya membuat sebuah looping
                hapus    (4)             
                ')     
         c = input("\nsilahkan masukan pilihan : ")
+
+Dan terakhir membuat fungsi if else untuk menjalankan method
+
+    if (c=="1"):
+        data.tambah()
+    elif (c=="2"):
+        data.ubah()
+    elif (c=="3"):
+        data.lihat()
+    elif (c=="4"):
+        data.hapus()
+    else:
+        data.keluar()
+        break

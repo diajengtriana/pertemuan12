@@ -21,7 +21,7 @@
 # PROGRAM
 pertama saya membuat sebuah class daftar nilai
 
-    class daftarNilai():
+    class daftarNilai()
 
 Lalu saya melanjutkan dengan membuat method method fungsinya
 
